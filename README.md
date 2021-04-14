@@ -15,7 +15,7 @@
 
 ## Main-Menu pictures
 
-![1](RedJava/RedJAVA/img/red-java-mainmenu.png "mainmenu")
+![1](/RedJAVA/img/red-java-mainmenu.png "mainmenu")
 
 
 ## in-game pictures
