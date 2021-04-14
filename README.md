@@ -2,7 +2,7 @@
  
  2D Platform game for mobile via Unity
  
- 3 different levels in the game for now
+ 3 different levels in the game for now.
  Save system is available
 
 * Enemy,
