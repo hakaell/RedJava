@@ -2,10 +2,10 @@
  
  2D Platform game for mobile via Unity
 
-** Enemy,
-** chest, 
-** saw 
-** coins
+* Enemy,
+* chest, 
+* saw 
+* coins
 
 
 
