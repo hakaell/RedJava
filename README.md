@@ -8,4 +8,6 @@
 * coins
 * cain-mace
 
+## in-game pictures
 
+![1](RedJava/RedJAVA/img/redjava_img1.png)
