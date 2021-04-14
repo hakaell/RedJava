@@ -12,7 +12,7 @@
 
 ![1](RedJAVA/img/redjava_img1.png "redjava")
 
-![2](/img/redjava_img2.png "redjava2")
+![2](RedJAVA/img/redjava_img2.png "redjava2")
 
 ![3](RedJAVA/img/redjava_img3.png "redjava3")
 
