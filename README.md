@@ -16,4 +16,4 @@
 
 ![3](/RedJAVA/img/redjava-img3.png "redjava3")
 
-![4](RedJava/RedJAVA/img/redjava-img4.png "redjava4")
+![4](/RedJAVA/img/redjava-img4.png "redjava4")
