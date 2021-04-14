@@ -10,6 +10,6 @@
 
 ## in-game pictures
 
-![1](RedJava/RedJAVA/img/redjava_img1.png "redjava")
+![1](RedJAVA/img/redjava_img1.png "redjava")
 
 
