@@ -17,7 +17,7 @@
 
 ![1](/RedJAVA/img/red-java-mainmenu.png "mainmenu")
 
-![2](RedJava/RedJAVA/img/redjava-mainmenu2.png "mainmenu")
+![2](/RedJAVA/img/redjava-mainmenu2.png "mainmenu")
 
 ## in-game pictures
 
