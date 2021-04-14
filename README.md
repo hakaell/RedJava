@@ -12,6 +12,12 @@
 * coins
 * cain-mace
 
+
+## Main-Menu pictures
+
+![1](RedJava/RedJAVA/img/red-java-mainmenu.png "mainmenu")
+
+
 ## in-game pictures
 
 ![1](RedJAVA/img/redjava_img1.png "redjava")
