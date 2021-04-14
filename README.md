@@ -6,6 +6,6 @@
 * chest, 
 * saw 
 * coins
-
+* cain-mace
 
 
