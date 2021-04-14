@@ -1,6 +1,8 @@
 # RedJava
  
  2D Platform game for mobile via Unity
+ 
+ 3 different levels in the game for now
 
 * Enemy,
 * chest, 
